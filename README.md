@@ -41,5 +41,5 @@
 
 ## Stats 
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=nuxea&show_icons=true&rank_icon=github&theme=jolly&hide=prs,contribs&count_private=true&locale=fr)
+![Les Stats GitHub](https://github-readme-stats-3l8u8osfm-nuxea.vercel.app/api?username=nuxea&show_icons=true&rank_icon=github&theme=jolly&hide=prs,contribs&count_private=true&locale=fr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&locale=fr&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
