@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Nuxea/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/amandinelscx/)
 
-## Languages et outils
+## Languages / Outils
 
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
@@ -39,7 +39,7 @@
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=149eca)](https://react.dev/)
 
 
-## Quelques stats 
+## Stats 
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=nuxea&show_icons=true&theme=jolly&hide=stars,prs,issues,contribs&count_private=true&locale=fr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
