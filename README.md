@@ -39,7 +39,4 @@
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=149eca)](https://react.dev/)
 
 
-## Stats
-
-![Les Stats GitHub](https://github-readme-stats-one-mauve-18.vercel.app/api?username=nuxea&show_icons=true&rank_icon=github&theme=jolly&hide=prs,contribs&count_private=true&locale=fr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&&count_private=true&locale=fr&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&&count_private=true&locale=fr&layout=compact&size_weight=0.5&count_weight=0.5" /> 
