@@ -1,4 +1,4 @@
-# Bienvenue sur Nuxea 👋
+# Bienvenue sur le GitHub de Nuxea 👋
 
 - 📫 Contactez-moi sur **lescieux.am@gmail.com**
 
@@ -29,15 +29,17 @@
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJIdea&logoColor=fe2857)](https://www.jetbrains.com/idea/)
 
 
-## En apprentissage / perfectionnement
+## Perfectionnement
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
+
+## Apprentissage
+
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=149eca)](https://react.dev/)
 
 
-## Quelques stats
+## Quelques stats 
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=nuxea&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nuxea&theme=shadow-purple&locale=fr)](https://git.io/streak-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=nuxea&show_icons=true&theme=jolly&hide=stars,prs,issues,contribs&count_private=true&locale=fr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
