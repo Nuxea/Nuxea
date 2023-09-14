@@ -39,6 +39,4 @@
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=149eca)](https://react.dev/)
 
 
-<img align="left" src="https://github-readme-stats-one-mauve-18.vercel.app/api?username=nuxea&show_icons=true&rank_icon=github&theme=jolly&hide=prs,contribs&locale=fr" /> 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&layout=donut&count_private=true&locale=fr&size_weight=0.5&count_weight=0.5" /> 
+<img style="width:100%; height:165px;" src="https://github-readme-stats-one-mauve-18.vercel.app/api?username=nuxea&show_icons=true&rank_icon=github&theme=jolly&hide=prs,contribs&locale=fr" /> <img style="width:100%; height:165px;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&layout=donut&count_private=true&locale=fr&size_weight=0.5&count_weight=0.5" /> 
