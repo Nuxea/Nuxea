@@ -1,4 +1,4 @@
-# Bienvenue sur le GitHub de Nuxea 👋
+# Bienvenue 👋
 
 - 📫 Contactez-moi via **lescieux.am@gmail.com**
 
