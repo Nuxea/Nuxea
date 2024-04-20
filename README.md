@@ -32,9 +32,6 @@
 ## Perfectionnement
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-
-## Apprentissage
-
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 
 <img style="width:100%; height:165px;" src="https://github-readme-stats-one-mauve-18.vercel.app/api?username=nuxea&show_icons=true&rank_icon=github&theme=jolly&hide=prs,contribs&locale=fr" /> <img style="width:100%; height:165px;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuxea&theme=jolly&layout=donut&count_private=true&locale=fr&size_weight=0.5&count_weight=0.5" /> 
